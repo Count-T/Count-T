@@ -2,7 +2,6 @@
 - 👀 I’m interested in ReactJS & Express
 - 🌱 I’m currently learning ReactJS & Express
 - 💞️ I’m looking to collaborate on Hackathon Projects
-- 📫 How to reach me ...
 
 <!---
 Count-T/Count-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
